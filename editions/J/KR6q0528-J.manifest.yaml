@@ -1,0 +1,260 @@
+canonical_identifier: bkk:krp/KR6q0528/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0528/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海幢阿字無禪師語錄
+  identifiers:
+    krp: KR6q0528
+    cbeta: J38nB408
+    cbeta_old_id: J38nB408
+    authorityid: CA0006028
+    json_key: JB408
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J38/J38nB408.xml
+    old_id: J38nB408
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0528_000-J.yaml, hash: 'sha256:eb09845dfdf0cbf16ff16089ccd5dd7e0dab5e57072c19c8631b97aec323a755'}
+  - {seq: 1, filename: KR6q0528_001-J.yaml, hash: 'sha256:711529b7ef276f1cd90396d39f5316fb3d6053cdf8b44d23bb6aad83168e28d2'}
+  - {seq: 2, filename: KR6q0528_002-J.yaml, hash: 'sha256:e6804fc8e6ceb07c699248c95bfbcba700398a10b15973b7abff4759eb6e6435'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0528_000-J.markers.yaml, hash: 'sha256:d7db267796f8c5bf6b1906e10c448f88de1409e7fe8e653025d587d9fbc6b358'}
+  - {seq: 1, role: markers, filename: assets/KR6q0528_001-J.markers.yaml, hash: 'sha256:12774647dd2c8f4fd9bbf51dfa429aaafc009ee11a89fdb23dd05b6490a10bd4'}
+  - {seq: 2, role: markers, filename: assets/KR6q0528_002-J.markers.yaml, hash: 'sha256:876e39633c60eaf86e5542e63279ef7ad39f6712c43c2e31577b3c10ef4dbc79'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0528_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 像　讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0528_J_000-mulu-2
+    span:
+    - front
+    - 38
+    - 38
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0528_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 23154
+  label: 海幢阿字無禪師語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0528_J_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0528_J_001-mulu-2
+    span:
+    - body
+    - 6458
+    - 6458
+  label: 普說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0528_J_001-mulu-3
+    span:
+    - body
+    - 17669
+    - 17669
+  label: 小參一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 24190
+  label: 海幢阿字無禪師語錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 小參二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-2
+    span:
+    - body
+    - 2955
+    - 2955
+  label: 茶話
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-3
+    span:
+    - body
+    - 6781
+    - 6781
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-4
+    span:
+    - body
+    - 11051
+    - 11051
+  label: 書問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-5
+    span:
+    - body
+    - 17657
+    - 17657
+  label: 像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-6
+    span:
+    - body
+    - 17659
+    - 17659
+  label: 釋迦世尊讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-7
+    span:
+    - body
+    - 17791
+    - 17791
+  label: 阿彌陀如來讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-8
+    span:
+    - body
+    - 18084
+    - 18084
+  label: 彌勒如來讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-9
+    span:
+    - body
+    - 18117
+    - 18117
+  label: 文殊菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-10
+    span:
+    - body
+    - 18435
+    - 18435
+  label: 觀音菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-11
+    span:
+    - body
+    - 19669
+    - 19669
+  label: 準提菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-12
+    span:
+    - body
+    - 19788
+    - 19788
+  label: 普門品書成佛像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-13
+    span:
+    - body
+    - 19890
+    - 19890
+  label: 地藏王菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-14
+    span:
+    - body
+    - 19944
+    - 19944
+  label: 達磨初祖讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-15
+    span:
+    - body
+    - 19977
+    - 19977
+  label: 佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0528_J_002-mulu-16
+    span:
+    - body
+    - 22492
+    - 22492
+  label: 行狀
+  type: mulu
+  level: 1
+hash: sha256:c441a930ec245e68b506d01f3940536ddb98fba6afa091fbdb582609aa4b0a53

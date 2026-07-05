@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6q0528/j/v1/juan/0
 seq: 0
 front:
-  text: 阿字和尚像四十九年一字無分明此日絶名模現前面目非今古莫向春你聞鷓鴣栖賢老僧題海幢阿字無禪師語録目録卷上上堂普說小參卷下小參茶話頌古書問像讚佛事
-  hash: sha256:93422f3755263c94560c75c11ae2c2cc7c92080ebf40a91c66c6a87d2d1facee
+  text: 阿字和尚像四十九年一字無分明此日絕名模現前面目非今古莫向春你聞鷓鴣栖賢老僧題海幢阿字無禪師語錄目錄卷上上堂普說小參卷下小參茶話頌古書問像讚佛事
+  hash: sha256:e0ef049a7cf6d449dccec8d2e46c52f32959af7880564b4dbdfc2c21f0921863
   markers:
   - {type: 其他, offset: 0, content: 像　讚, id: KR6q0528_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 38, content: 目錄, id: KR6q0528_J_000-mulu-2, level: '1'}
@@ -17,4 +17,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J38/J38nB408.xml
     old_id: J38nB408
-hash: sha256:6040c2c19717dda337e8bdeea220d728e3daf3a43aaef2e4d2e7e5ec3e317490
+hash: sha256:eb09845dfdf0cbf16ff16089ccd5dd7e0dab5e57072c19c8631b97aec323a755

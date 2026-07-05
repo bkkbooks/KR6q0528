@@ -14,7 +14,6 @@ markers:
   - {type: xml-element, offset: 5, content: '', id: pJ38p0253a0601, name: p, role: open, attrs: {'xml:id': pJ38p0253a0601}}
   - {type: punctuation, offset: 12, content: ，, id: KR6q0528_J_000-bkkpn1}
   - {type: line-break, offset: 15, content: '', id: KR6q0528_J_000-0253a07, ed: J, 'n': 0253a07}
-  - {type: substitution, offset: 16, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 19, content: 。, id: KR6q0528_J_000-bkkpn2}
   - {type: line-break, offset: 23, content: '', id: KR6q0528_J_000-0253a08, ed: J, 'n': 0253a08}
   - {type: punctuation, offset: 26, content: ，, id: KR6q0528_J_000-bkkpn3}
@@ -25,8 +24,6 @@ markers:
   - {type: xml-element, offset: 38, content: '', id: pJ38p0253a0902_end, name: p, role: close, attrs: {'xml:id': pJ38p0253a0902, style: 'margin-left:2em', 'cb:place': inline}}
   - {type: line-break, offset: 38, content: '', id: KR6q0528_J_000-0253a10, ed: J, 'n': 0253a10}
   - {type: line-break, offset: 38, content: '', id: KR6q0528_J_000-0253a11, ed: J, 'n': 0253a11}
-  - {type: substitution, offset: 46, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
-  - {type: substitution, offset: 48, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: line-break, offset: 49, content: '', id: KR6q0528_J_000-0253a12, ed: J, 'n': 0253a12}
   - {type: xml-element, offset: 49, content: '', id: KR6q0528_J_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 49, content: '', id: itemJ38p0253a1201, name: item, role: open, attrs: {'xml:id': itemJ38p0253a1201}}
@@ -99,4 +96,4 @@ markers:
   - {type: line-break, offset: 71, content: '', id: KR6q0528_J_000-0253c01, ed: J, 'n': 0253c01}
   body: []
   back: []
-hash: sha256:8f165ecc3237bb431888fe64936b706389f4324a677e56a5e236d8452601c1a7
+hash: sha256:bd69bade78a3b212dc2c4759468808da6f95de98a5a125923c67f7470c26394b

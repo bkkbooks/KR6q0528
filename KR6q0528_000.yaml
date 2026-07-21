@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0528/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 阿字和尚像四十九年一字無分明此日絶名模現前面目非今古莫向春你聞鷓鴣栖賢老僧題海幢阿字無禪師語録目録卷上上堂普説小參卷下小參茶話頌古書問像讚佛事
   hash: sha256:8ae723b7fdb3ab1be10e2d866b4af190e0a0f0312a51b6b183e84e3cf38b3a66
   markers:
   - {type: 其他, offset: 0, content: 像　讚, id: KR6q0528_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 38, content: 目錄, id: KR6q0528_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 海幢阿字無禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J38/J38nB408.xml
     old_id: J38nB408
-hash: sha256:2de9c7c0f39cfe6837c57ebd8188cd79928fcb22e23892e978be4a345d543fe7
+hash: sha256:a5ef62dfe002f39837bb133755e390c1e132ac8ef9694975341c98cd339c6659
